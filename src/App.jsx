@@ -12,7 +12,7 @@ import Footer from './components/footer/Footer'
 const App = () => {
   return (
     <>
-      {/* <Header />
+      <Header />
       <Nav />
       <About />
       <Experience />
@@ -20,7 +20,7 @@ const App = () => {
       <Portfolio />
       <Testimonials />
       <Contact />
-      <Footer /> */}
+      <Footer />
     </>
   )
 }
